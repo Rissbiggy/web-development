@@ -1,4 +1,4 @@
-<!DOCOTYPE html>
+<!DOCTYPE html>
 <!---We enter the user name and password-->
 <html>
     <head>
